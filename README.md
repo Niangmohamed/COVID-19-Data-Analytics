@@ -22,4 +22,4 @@ I. Exploratory data analysis and visualization using Python
     
     I.8. Plotting number of recovered people
 
-II. Interactive plots with altair
+II. Interactive plots with altair 
