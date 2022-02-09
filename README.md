@@ -1,6 +1,6 @@
-# COVID-19
+# COVID-19 Data Analytics
 
-> Exploratory Data Analysis with COVID-19 data
+> Exploratory Data Analysis with COVID-19 data.
 
 #  Table of Contents
 
